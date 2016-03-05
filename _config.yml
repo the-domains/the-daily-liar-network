@@ -1,7 +1,7 @@
 name: The Daily Liar Network
 favicon: null
 layout_spectrum: 0.25707
-typography_spectrum: 0.79651
+typography_spectrum: 1
 title: The Daily Liar Network
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#f6dfe2'
   brandStrength: 0
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
