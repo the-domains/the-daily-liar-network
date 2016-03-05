@@ -2,12 +2,13 @@ name: The Daily Liar Network
 favicon: null
 layout_spectrum: 0.49423685390502214
 typography_spectrum: 0.22109533031471074
+title: The Daily Liar Network
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-61078204-3
   facebook: null
   twitter: null
 opengraph:
