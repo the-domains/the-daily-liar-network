@@ -1,6 +1,6 @@
 name: The Daily Liar Network
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75391
 typography_spectrum: 0.79651
 title: The Daily Liar Network
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.016607054974883795
+    - '#000000'
+    - '#ca0000'
+    - '#df464b'
+    - '#5f5c5d'
+    - '#f6dfe2'
+  brandStrength: 0
   lightness: 0.4220057241618633
   saturation: 0.15710071730427444
   rhythmicContrast: 0.6092305204365402
